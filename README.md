@@ -64,6 +64,8 @@ Open http://localhost:5000
 
 5\. ECS replaces the old task with the new one (rolling deployment).
 
+6\. The live AWS environment was taken down after testing.
+
 
 
 AWS credentials are stored as GitHub Secrets and are never committed to the repo.
